@@ -1,6 +1,6 @@
 # sfphase_tools
 
-##phase_tool.py
+## phase_tool.py
 
 Description:
   Module for reading and building dataframe to analyze phase of atoms
@@ -34,7 +34,7 @@ Output data columns:
     'estsize': number of rows in estimator file
     'supsize': number of rows in superfulid file
     
-##plot_tools.py
+## plot_tools.py
 
 Description:
   Module for plot various concepts in a built dataframe with dframe_tools.py
@@ -57,7 +57,7 @@ How to use:
    alist, aerrlist = plot_superfrac(result)
    alist, aerrlist = plot_superdens(result)
    
-##gen_resubmit.py
+## gen_resubmit.py
 
 Description:
   Module for reading dataframe and generating resubmittion files
